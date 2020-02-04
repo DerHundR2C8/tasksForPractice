@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.kathy.examTasks.Tests" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-02-04T19:31:59" hostname="pop-os" time="0.113">
+  <properties/>
+  <testcase name="maxRainfall()" classname="com.github.kathy.examTasks.Tests" time="0.058"/>
+  <testcase name="rangeAverage()" classname="com.github.kathy.examTasks.Tests" time="0.008"/>
+  <testcase name="rout()" classname="com.github.kathy.examTasks.Tests" time="0.01"/>
+  <testcase name="intersectionOfMany()" classname="com.github.kathy.examTasks.Tests" time="0.015"/>
+  <testcase name="apartments()" classname="com.github.kathy.examTasks.Tests" time="0.005"/>
+  <testcase name="birthday()" classname="com.github.kathy.examTasks.Tests" time="0.001"/>
+  <testcase name="transfer()" classname="com.github.kathy.examTasks.Tests" time="0.003"/>
+  <testcase name="footballMatchStatistics()" classname="com.github.kathy.examTasks.Tests" time="0.002"/>
+  <testcase name="stockProducts()" classname="com.github.kathy.examTasks.Tests" time="0.002"/>
+  <testcase name="findNumberPhone()" classname="com.github.kathy.examTasks.Tests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
